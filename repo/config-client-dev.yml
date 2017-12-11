@@ -1,3 +1,5 @@
-info:
-  profile: dev
-  from: git-repo
+#info:
+ # profile: dev
+ # from: git-repo
+ 
+ foo = foo version 2
